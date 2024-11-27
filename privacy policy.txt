@@ -1,0 +1,84 @@
+**Interaction Privacy Policy**
+
+**Last Updated:** 27/11/2024
+
+This Privacy Policy describes how 011Synapse ("Provider", "we", "us", "our") collects, uses, and handles information when you ("User", "you", "your") use the Interaction Discord bot ("Interaction", "Bot", "Service"). We are committed to protecting your privacy and complying with applicable data protection laws.
+
+**1. Information We Collect**
+
+We collect the following information when you use Interaction:
+
+*   **Discord User Information:**
+    *   Discord User ID
+    *   Discord Username
+    *   Guild (Server) Name and ID
+
+*   **Bot Usage Information:**
+    *   Message Content: We temporarily store message content to enable the AI functionality of the bot, process commands, and improve performance.
+    *   Timestamps of messages and commands
+    *   Commands used and their parameters
+    *   Channel IDs where the bot is activated or used
+
+*   **Character Data:**
+    *   Character Name
+    *   Character Description
+    *   Character Image URL (if provided by the user)
+    *   User ID of the character creator
+    *   Guild ID associated with the character
+    *   Activated Channel IDs for the bot
+
+**2. How We Use Your Information**
+
+We use the collected information for the following purposes:
+
+*   **Providing the Service:** To enable the core functionality of the bot, allowing you to create characters, interact with the AI, and manage the bot on your Discord server.
+*   **Improving the Service:** To analyze usage patterns, identify and fix bugs, and enhance the performance and features of the bot. This may include debugging and performance enhancement.
+*   **Troubleshooting and Support:** To respond to your inquiries, provide technical support, and resolve issues you may encounter.
+*   **Safety and Security:** To detect and prevent abuse, fraud, or violations of our Terms of Service and Discord's Community Guidelines.
+
+**3. Information We Do Not Collect or Use**
+
+We want to be explicit about what we do **not** do with your information:
+
+*   **No Selling of Data:** We will never sell your personal information to third parties.
+*   **No Long-Term Storage of Non-Essential Data:**  We will only retain message content and other usage data for a limited period necessary to provide the service, debug issues, and train basic language models for the AI improvement within our own systems. Message content will not be stored after the required operational period and we will delete the data periodically.
+*   **No Training of External AI Models:** We will not use your data to train any third-party AI models or share your data with external entities for AI training purposes.
+*   **No Profiling or Targeted Advertising:** We will not use your information to create profiles for targeted advertising or any other form of automated decision-making.
+
+**4. NSFW Content and Age Restrictions**
+
+We understand that Interaction may be used to generate or interact with content that is sexually suggestive or intended for mature audiences. We take the following measures regarding NSFW content:
+
+*   **User Responsibility:** You are solely responsible for ensuring that NSFW content generated or shared through Interaction on your Discord server(s) is appropriately labeled and restricted to users who are of legal age and have consented to view it. You must comply with all applicable laws and regulations regarding the creation, distribution, and consumption of NSFW content.
+*   **Age Verification:**  Interaction is intended for use by individuals who are of the age of majority in their jurisdiction. We do not knowingly collect personal information from children under the age of 18. If we become aware that we have inadvertently collected personal information from a child, we will take steps to delete it as soon as possible. **It is your responsibility as the server administrator to ensure that your server and the use of Interaction within it comply with age restrictions and child protection laws.**  We highly recommend you have clear rules and verification systems in place on your server to prevent access by minors to NSFW content.
+*   **Content Moderation:** While we do not actively monitor message content, we reserve the right to take action, including suspending or terminating access to the bot, if we become aware of violations of our Terms of Service or illegal activities, including the distribution of child sexual abuse material.
+
+**5. Data Sharing**
+
+We may share limited information with trusted third-party service providers who assist us in operating the Service, such as hosting providers. We will only share information necessary to perform these services and under strict confidentiality agreements. We may also disclose your information if required by law or legal process.
+
+**6. Data Security**
+
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure. These measures include data encryption, access controls, and regular security assessments. However, no data transmission over the internet or electronic storage system can be guaranteed to be 100% secure.
+
+**7. Your Rights**
+
+Depending on your jurisdiction, you may have certain rights regarding your personal information, such as the right to access, correct, or delete your data. If you wish to exercise any of these rights, please contact us at 11elevendev@gmail.com
+
+**8. Changes to this Privacy Policy**
+
+We may update this Privacy Policy from time to time. We will notify you of significant changes by posting a notice on our website or through the bot. Your continued use of the Service after any such modifications constitutes your acceptance of the new Privacy Policy.
+
+**9. Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+11elevendev@gmail.com
+
+**Important Considerations:**
+
+*   **Legal Advice:**  It's strongly recommended to have this Privacy Policy reviewed by a legal professional to ensure compliance with all applicable data protection laws and regulations, especially given the sensitive nature of NSFW content.
+*   **Transparency:** Be as transparent as possible with your users about what data you collect and how you use it.
+*   **Discord's Policies:** Ensure your bot's Privacy Policy aligns with Discord's own Terms of Service and Privacy Policy.
+*   **Accessibility:** Make your Privacy Policy easily accessible to your users, for example, through a command in the bot or a link in the bot’s profile.
+*   **Updates:** Regularly review and update your Privacy Policy as needed to reflect changes in your practices or legal requirements.
